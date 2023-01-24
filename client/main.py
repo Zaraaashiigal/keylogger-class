@@ -5,7 +5,6 @@
 import requests
 import socket
 
-
 # Setup server to send to.
 host = "hostname"
 port = "porthere"
